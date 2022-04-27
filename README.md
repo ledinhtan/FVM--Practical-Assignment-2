@@ -1,7 +1,7 @@
 
-# A 1D Poisson Problem with Robin boundary condition using Finite Volume Method
+# A 1D Poisson Equation with Robin boundary condition using Finite Volume Method
 
-This work is my practical assignment to solve a 1D Poisson Problem 
+This work is my practical assignment to solve a 1D Poisson Equation 
 with Robin boundary condition by using Finite Volume Method.
 
 
@@ -12,7 +12,7 @@ with Robin boundary condition by using Finite Volume Method.
 
 ## Numerical Results
 
-We may find some solutions for the 1D Poisson problem with Robin
+We may find some solutions for the 1D Poisson equation with Robin
 boundary condition in my attached file (Practical Assignment 2.pdf).
 
 Running the code to see the numerical results.
